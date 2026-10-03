@@ -7,7 +7,7 @@ cask "easytab" do
   desc "Fast, lightweight Command+Tab window switcher for macOS"
   homepage "https://github.com/rynergold/homebrew-easytab"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "EasyTab.app"
 
