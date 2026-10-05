@@ -2,6 +2,12 @@
 
 Official public distribution repository and Homebrew tap for **EasyTab**, the fast, lightweight Command+Tab window switcher for macOS.
 
+<br>
+
+<div align="center">
+  <img src="docs/images/demo.gif" alt="EasyTab in action" width="800">
+</div>
+
 ---
 
 ## 📦 Installation
